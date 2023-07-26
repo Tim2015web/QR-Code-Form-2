@@ -1,0 +1,19 @@
+/*Common style*/
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+
+    background-image: url(../images/bg.webp);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.text-title {
+    font-weight: 700;
+    margin-bottom: 8px;
+}

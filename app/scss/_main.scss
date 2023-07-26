@@ -1,0 +1,60 @@
+.main {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, .5);
+
+    @media (max-width: 359px) {
+        padding: 12px;
+    }
+
+    @media (min-width: 400px) {
+        width: 400px;
+    }
+
+    .logotype {
+        margin: 0 auto;
+        width: 75%;
+    }
+
+    .mail-bar {
+        margin-top: 16px;
+        display: flex;
+
+        &__image-wrap {
+            margin-right: 4px;
+        }
+
+        &__text-wrap {
+            display: flex;
+            flex-direction: column;
+            align-self: center;
+        }
+    }
+
+    .social-bar {
+        margin-top: 16px;
+        display: flex;
+        justify-content: space-around;
+    }
+
+    .map {
+        margin-top: 16px;
+
+        & iframe {
+            margin-top: 16px;
+            width: 100%;
+            height: 320px;
+        }
+    }
+
+    .icon {
+        width: 64px;
+        height: 64px;
+
+        @media (max-width: 359px) {
+            width: 48px;
+            height: 48px;
+        }
+    }
+}
