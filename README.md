@@ -1,12 +1,12 @@
 # StartTemplate_gulp
 
-[Show the project](https://tim2015web.github.io/StartTemplate_gulp/)
+[Show the project](https://tim2015web.github.io/QR-Code-Form-2/)
 
 Layout. StartTemplate_gulp
 
 ---
 
-[Показать проект](https://tim2015web.github.io/StartTemplate_gulp/)
+[Показать проект](https://tim2015web.github.io/QR-Code-Form-2/)
 
 Вёрстка. StartTemplate_gulp
 
